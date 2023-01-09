@@ -1,0 +1,15 @@
+C:\Users\javidai\Desktop\Nullable,Exception\Nullabe-Exception\Nullabe-Exception\bin\Debug\net6.0\Nullabe-Exception.exe
+C:\Users\javidai\Desktop\Nullable,Exception\Nullabe-Exception\Nullabe-Exception\bin\Debug\net6.0\Nullabe-Exception.deps.json
+C:\Users\javidai\Desktop\Nullable,Exception\Nullabe-Exception\Nullabe-Exception\bin\Debug\net6.0\Nullabe-Exception.runtimeconfig.json
+C:\Users\javidai\Desktop\Nullable,Exception\Nullabe-Exception\Nullabe-Exception\bin\Debug\net6.0\Nullabe-Exception.dll
+C:\Users\javidai\Desktop\Nullable,Exception\Nullabe-Exception\Nullabe-Exception\bin\Debug\net6.0\Nullabe-Exception.pdb
+C:\Users\javidai\Desktop\Nullable,Exception\Nullabe-Exception\Nullabe-Exception\obj\Debug\net6.0\Nullabe-Exception.csproj.AssemblyReference.cache
+C:\Users\javidai\Desktop\Nullable,Exception\Nullabe-Exception\Nullabe-Exception\obj\Debug\net6.0\Nullabe-Exception.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\javidai\Desktop\Nullable,Exception\Nullabe-Exception\Nullabe-Exception\obj\Debug\net6.0\Nullabe-Exception.AssemblyInfoInputs.cache
+C:\Users\javidai\Desktop\Nullable,Exception\Nullabe-Exception\Nullabe-Exception\obj\Debug\net6.0\Nullabe-Exception.AssemblyInfo.cs
+C:\Users\javidai\Desktop\Nullable,Exception\Nullabe-Exception\Nullabe-Exception\obj\Debug\net6.0\Nullabe-Exception.csproj.CoreCompileInputs.cache
+C:\Users\javidai\Desktop\Nullable,Exception\Nullabe-Exception\Nullabe-Exception\obj\Debug\net6.0\Nullabe-Exception.dll
+C:\Users\javidai\Desktop\Nullable,Exception\Nullabe-Exception\Nullabe-Exception\obj\Debug\net6.0\refint\Nullabe-Exception.dll
+C:\Users\javidai\Desktop\Nullable,Exception\Nullabe-Exception\Nullabe-Exception\obj\Debug\net6.0\Nullabe-Exception.pdb
+C:\Users\javidai\Desktop\Nullable,Exception\Nullabe-Exception\Nullabe-Exception\obj\Debug\net6.0\Nullabe-Exception.genruntimeconfig.cache
+C:\Users\javidai\Desktop\Nullable,Exception\Nullabe-Exception\Nullabe-Exception\obj\Debug\net6.0\ref\Nullabe-Exception.dll
